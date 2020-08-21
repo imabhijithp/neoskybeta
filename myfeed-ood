@@ -1,10 +1,4 @@
 #!/usr/bin/perl
-#########################################
-# SkySort - SkyWayz MyFeed              #
-# OOD Wrapper Module                    #
-# Copyright (c) Alex K. Anwar 2020      #
-# Copyright (c) Gerry F. Soejatman 2020 #
-#########################################
 
 $svn="5";
 print "NEOsky MyFeed Operate-On-Demand Edition SVN $svn\n";
